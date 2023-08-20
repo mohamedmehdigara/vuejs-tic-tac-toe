@@ -31,7 +31,11 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 24px;
+  font-size: 36px;
   cursor: pointer;
+}
+
+.cell:hover {
+  background-color: #f0f0f0;
 }
 </style>

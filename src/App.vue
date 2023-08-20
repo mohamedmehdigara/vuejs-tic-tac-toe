@@ -12,6 +12,7 @@
 <script>
 import TicTacToeBoard from './components/TicTacToeBoard.vue';
 
+
 export default {
   components: {
     TicTacToeBoard,
